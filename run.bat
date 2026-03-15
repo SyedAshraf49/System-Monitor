@@ -1,0 +1,3 @@
+@echo off
+echo Starting System Monitor Pro - Glassmorphism Edition...
+python system_monitor_glass.py

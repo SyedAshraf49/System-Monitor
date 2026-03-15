@@ -1,0 +1,9 @@
+# System Monitor Pro - Glassmorphism Edition
+# Python 3.7+ required
+
+# Core dependencies
+PyQt5>=5.15.0
+psutil>=5.8.0
+
+# Optional: GPU monitoring (NVIDIA only)
+GPUtil>=1.4.0
